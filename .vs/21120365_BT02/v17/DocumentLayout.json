@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ezion\\source\\repos\\21120365_BT02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13CDEBC6-051F-4359-B804-8609E3951A1E}|21120365_BT02\\21120365_BT02.vcxproj|C:\\Users\\ezion\\source\\repos\\21120365_BT02\\21120365_BT02\\edge_detection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13CDEBC6-051F-4359-B804-8609E3951A1E}|21120365_BT02\\21120365_BT02.vcxproj|solutionrelative:21120365_BT02\\edge_detection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CDEBC6-051F-4359-B804-8609E3951A1E}|21120365_BT02\\21120365_BT02.vcxproj|C:\\Users\\ezion\\source\\repos\\21120365_BT02\\21120365_BT02\\image_displayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13CDEBC6-051F-4359-B804-8609E3951A1E}|21120365_BT02\\21120365_BT02.vcxproj|solutionrelative:21120365_BT02\\image_displayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CDEBC6-051F-4359-B804-8609E3951A1E}|21120365_BT02\\21120365_BT02.vcxproj|C:\\Users\\ezion\\source\\repos\\21120365_BT02\\21120365_BT02\\21120365_BT02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13CDEBC6-051F-4359-B804-8609E3951A1E}|21120365_BT02\\21120365_BT02.vcxproj|solutionrelative:21120365_BT02\\21120365_BT02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CDEBC6-051F-4359-B804-8609E3951A1E}|21120365_BT02\\21120365_BT02.vcxproj|C:\\Users\\ezion\\source\\repos\\21120365_BT02\\21120365_BT02\\image_displayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13CDEBC6-051F-4359-B804-8609E3951A1E}|21120365_BT02\\21120365_BT02.vcxproj|solutionrelative:21120365_BT02\\image_displayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 220,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "edge_detection.cpp",
+              "DocumentMoniker": "C:\\Users\\ezion\\source\\repos\\21120365_BT02\\21120365_BT02\\edge_detection.cpp",
+              "RelativeDocumentMoniker": "21120365_BT02\\edge_detection.cpp",
+              "ToolTip": "C:\\Users\\ezion\\source\\repos\\21120365_BT02\\21120365_BT02\\edge_detection.cpp",
+              "RelativeToolTip": "21120365_BT02\\edge_detection.cpp",
+              "ViewState": "AQIAAHwBAAAAAAAAAAAEwIYBAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-23T15:46:36.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "image_displayer.cpp",
+              "DocumentMoniker": "C:\\Users\\ezion\\source\\repos\\21120365_BT02\\21120365_BT02\\image_displayer.cpp",
+              "RelativeDocumentMoniker": "21120365_BT02\\image_displayer.cpp",
+              "ToolTip": "C:\\Users\\ezion\\source\\repos\\21120365_BT02\\21120365_BT02\\image_displayer.cpp",
+              "RelativeToolTip": "21120365_BT02\\image_displayer.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-23T15:27:48.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "image_displayer.h",
+              "DocumentMoniker": "C:\\Users\\ezion\\source\\repos\\21120365_BT02\\21120365_BT02\\image_displayer.h",
+              "RelativeDocumentMoniker": "21120365_BT02\\image_displayer.h",
+              "ToolTip": "C:\\Users\\ezion\\source\\repos\\21120365_BT02\\21120365_BT02\\image_displayer.h",
+              "RelativeToolTip": "21120365_BT02\\image_displayer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-23T15:27:45.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "21120365_BT02.cpp",
+              "DocumentMoniker": "C:\\Users\\ezion\\source\\repos\\21120365_BT02\\21120365_BT02\\21120365_BT02.cpp",
+              "RelativeDocumentMoniker": "21120365_BT02\\21120365_BT02.cpp",
+              "ToolTip": "C:\\Users\\ezion\\source\\repos\\21120365_BT02\\21120365_BT02\\21120365_BT02.cpp",
+              "RelativeToolTip": "21120365_BT02\\21120365_BT02.cpp",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAiwFoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-23T09:54:07.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
